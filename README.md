@@ -4,6 +4,10 @@
 
 This is a Java program that calculates the most frequent element in an array of integers using both serial and parallel algorithms.
 
+## 👻 Author
+
+Created by **Stanislav Kinash** / **neprostostas**
+
 ## 🚀 Quick Start Guide
 
 ### Running the Program
