@@ -3,7 +3,7 @@ node_modules/
 dist/
 
 *.iml
-.DS_Store
+**/.DS_Store
 
 # Compiled Java class files
 *.class
