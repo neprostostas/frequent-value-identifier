@@ -57,8 +57,6 @@ Contributions, issues, and feature requests are welcome!
 
 This program is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more information.
 
-<!-- CONTACT -->
-
 ## 📫 Contact
 
 If you have any questions or concerns, please contact the author at **neprostostas.gg@gmail.com**
